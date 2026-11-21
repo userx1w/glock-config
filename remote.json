@@ -1,6 +1,15 @@
 {
     "version": 1,
+    "minVersion": null,
     "announcements": [],
     "disabledPlugins": [],
-    "supporters": []
+    "supporters": [],
+    "bannedUsers": [],
+    "badges": [
+        {
+            "userId": "1324755308505071667",
+            "tooltip": "/Interpol",
+            "icon": "b-mwqvqyca-YxlFyg.png"
+        }
+    ]
 }
